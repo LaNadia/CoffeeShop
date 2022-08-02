@@ -18,8 +18,16 @@ https://user-images.githubusercontent.com/92570785/182333959-74d354ef-4d0e-4b0e-
 + some photos
 
 ![image](https://user-images.githubusercontent.com/92570785/182337477-78454f26-7b5f-4873-99ff-851ad599eed8.png)
+
+--
+
 ![image](https://user-images.githubusercontent.com/92570785/182337544-4a1b31bc-eacc-4eb3-931b-5b9699e1087f.png)
+
+--
+
 ![image](https://user-images.githubusercontent.com/92570785/182337634-46a04569-2ab5-4267-a87e-e77920c66dd4.png)
+
+--
 
 
 ## Available Scripts
