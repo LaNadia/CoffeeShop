@@ -1,0 +1,38 @@
+.best-item {
+    display: grid;
+    grid-auto-rows: 1rem;
+    background: rgba(255, 255, 255, 0.65);
+    border-radius: 8px;
+    width: 22rem;
+    height: 24rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.best-item img {
+    width: 70%;
+    position: relative;
+    top:2rem;
+    left: 3.5rem;
+}
+
+.best-item__name {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    grid-row: 19;
+    margin-left: 1rem;
+}
+
+.best-item__price {
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    grid-row: 21;
+    margin-left: 13.5rem;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: black;
+}

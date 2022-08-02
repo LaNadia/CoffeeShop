@@ -1,0 +1,19 @@
+.search-box {
+    display: flex;
+    gap: 2rem;
+    
+}
+
+.search-box__text{
+    padding-top: 0.5rem;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    text-align: center;
+}
+
+input {
+    outline:none;
+    border: none;
+}
+
+  

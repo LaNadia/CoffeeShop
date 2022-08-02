@@ -1,0 +1,121 @@
+.header {
+    margin: -0.8rem;
+    max-height: 64rem;
+    background-image: url(/public/img/bg_header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .footer{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .header-nav, .footer-nav {
+    display: flex;
+    gap: 4rem;
+    max-width: 45rem;
+    max-height:  4rem;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-top: 3.2rem;
+    padding-bottom: 2rem;
+    padding-left: 10%;
+    cursor: pointer;
+  }
+  
+  .footer-nav {
+    margin: 3rem auto 0 auto;
+    padding: 0;
+  }
+  
+  .header-nav_item, .footer-nav_item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .header-nav_item:nth-child(1):before {
+    content: url(/public/img/logo.svg);
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  
+  .footer-nav_item {
+    color: black;
+  }
+  
+  .footer-nav_item:nth-child(1):before {
+    content: url(/public/img/logo_black.svg);
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  
+  .header-leadingtext h2 { 
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 3.5rem;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    margin: 1rem;
+  }
+  
+  .header-leadingtext h1 { 
+    font-size: 4rem;
+    line-height: 5.8rem;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .header-leadingtext h1::after {
+    content: url(/public/img/lines_white_beans.svg);
+    height: 3rem;
+  }
+  
+  .header-leadingtext img{
+    width: 10rem;
+    height: 10rem;
+  }
+  
+  .header-button {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background: transparent;
+    width: 12rem;
+    height: 3rem;
+    border-radius:  .3rem;
+    border: 1px solid #FFFFFF;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    color: #FFFFFF;
+    margin-bottom: 9.5rem;
+    margin-top: 1.5rem
+  }
+  
+  .footer::after {
+    content: url(/public/img/lines_black_beans.svg);
+    height: 3rem;
+
+  }
