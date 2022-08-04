@@ -2,7 +2,7 @@
 
 Hello! This is my pet-project named "Coffee Website" created on React. Actually this is the first one i ever made and i am very proud of it! 
 
-Creating this app I aimed at responsive and beautiful design, also I was trying to make as minimum components as i could to reuse them in similar website parts (for example,  "Our coffee" and "For your please" pages, as them are the same in structure but different in design),  used BrowserRouter, Routes, Link, and hooks like UseState, useLocation.
+Creating this app I aimed at responsive and beautiful design, also I was trying to make as minimum components as i could to reuse them in similar website parts (for example, in "Our coffee" and "For your please" pages, as they are the same in structure but different in design),  used BrowserRouter, Routes, Link, and hooks like UseState, useLocation.
 
 
 # LINK TO THE SITE:
