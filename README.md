@@ -4,9 +4,16 @@ Hello! This is my pet-project named "Coffee Website" created on React. Actually 
 
 Creating this app I aimed at responsive and beautiful design, also I was trying to make as minimum components as i could to reuse them in similar website parts (for example,  "Our coffee" and "For your please" pages, as them are the same in structure but different in design),  used BrowserRouter, Routes, Link, and hooks like UseState, useLocation.
 
-You can see the videos showing it below
+
+LINK TO THE SITE:
+https://62ea3f055891c50630bc3406--coffeewebsitepet.netlify.app/
 
 
+
+
+
+
+You can laso see the videos showing it below:
 #1 how it works
 https://user-images.githubusercontent.com/92570785/182333906-8f7dff89-4b13-4724-b3ce-5986f1b9ee86.mp4
 
